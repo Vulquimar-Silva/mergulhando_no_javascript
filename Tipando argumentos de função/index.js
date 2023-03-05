@@ -2,6 +2,6 @@
 function greet(name) {
     console.log(`Hello, ${name}!`);
 }
-greet('Daniel');
+greet('Vulks');
 greet(0);
 greet(true);

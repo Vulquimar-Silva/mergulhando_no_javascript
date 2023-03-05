@@ -4,4 +4,4 @@ function greet (name:string, age?:number) {
   )
 }
 
-greet('Daniel', 1)
+greet('Vulks', 1)

@@ -1,8 +1,8 @@
 "use strict";
-const personName = 'Daniel';
-const personAge = 22;
+const personName = 'Vulks';
+const personAge = 36;
 const personAlive = true;
 const personContacts = [
     0,
-    'daniel.bonifacio@algaworks.com',
+    'vuquimar@hotmail.com',
 ];

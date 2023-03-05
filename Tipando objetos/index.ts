@@ -6,11 +6,11 @@ type Person = {
 }
 
 const person: Person = {
-  age: 22,
-  name: 'Lucas',
+  age: 30,
+  name: 'nay',
   isAlive: true,
   contacts: [
-    'daniel.bonifacio@algaworks.com'
+    'nay007@hotmail.com'
   ]
 }
 

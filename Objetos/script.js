@@ -1,6 +1,6 @@
 var person = {
-  name: 'Daniel',
-  age: 22,
+  name: 'Vulks',
+  age: 36,
   sex: 'male'
 }
 

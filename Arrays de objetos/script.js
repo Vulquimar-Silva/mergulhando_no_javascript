@@ -1,15 +1,15 @@
 var person1 = {
-  name: 'Daniel',
+  name: 'Vulks',
   age: 22
 }
 
 var person2 = {
-  name: 'Rafaela',
+  name: 'Nay',
   age: 32
 }
 
 var person3 = {
-  name: 'Caio',
+  name: 'Foguim',
   age: 36
 }
 

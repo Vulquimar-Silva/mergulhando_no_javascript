@@ -1,8 +1,8 @@
-const personName:string = 'Daniel'
-const personAge:number = 22
+const personName:string = 'Vulks'
+const personAge:number = 36
 const personAlive:boolean = true
 
 const personContacts:(string|number)[] = [
   0,
-  'daniel.bonifacio@algaworks.com',
+  'vuquimar@hotmail.com',
 ]

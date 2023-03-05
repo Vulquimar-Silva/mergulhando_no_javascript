@@ -1,7 +1,7 @@
-function greet (name = 'mergulhador') {
+function greet(name = 'mergulhador') {
   return 'boa madrugada, ' + name
 }
 
-var greeting = greet('Daniel')
+var greeting = greet('Vulks')
 
 console.log(greeting)

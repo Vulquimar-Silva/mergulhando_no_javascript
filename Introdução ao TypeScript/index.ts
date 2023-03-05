@@ -1,6 +1,6 @@
 const me = {
-  name: 'Daniel',
-  age: 22
+  name: 'Vulks',
+  age: 36
 }
 
 export default me
