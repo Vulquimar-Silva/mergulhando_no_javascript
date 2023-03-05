@@ -1,6 +1,6 @@
 var person1 = {
   name: 'Vulks',
-  age: 22
+  age: 36
 }
 
 var person2 = {
@@ -9,8 +9,8 @@ var person2 = {
 }
 
 var person3 = {
-  name: 'Foguim',
-  age: 36
+  name: 'Maria',
+  age: 42
 }
 
 var list = [person1, person2, person3]

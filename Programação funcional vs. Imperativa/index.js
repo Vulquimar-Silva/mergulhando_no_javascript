@@ -1,15 +1,15 @@
 var person = {
   age: 17,
-  name: 'Lucas'
+  name: 'Ellen'
 }
 
 // função pura
-function getRemainingYearsToMajorty (person) {
+function getRemainingYearsToMajorty(person) {
   return 18 - person.age
 }
 
 // função impura - gera efeitos colaterais
-function increasePersonAge (person) {
+function increasePersonAge(person) {
   person.age = person.age + 1
 }
 

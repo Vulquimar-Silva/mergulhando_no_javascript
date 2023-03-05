@@ -8,7 +8,7 @@ interface Human extends Animal {
 }
 
 const person: Human = {
-  age: 22,
-  name: 'Lucas',
+  age: 50,
+  name: 'Gilmar',
   sex: 'male'
 }

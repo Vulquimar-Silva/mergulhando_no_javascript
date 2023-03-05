@@ -1,5 +1,5 @@
 const person: Person.WithContacts = {
-  name: 'Lucas',
-  age: 32,
+  name: 'Renata',
+  age: 30,
   contacs: []
 }
