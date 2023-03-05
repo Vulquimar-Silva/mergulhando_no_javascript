@@ -15,7 +15,7 @@ const person: Person = {
 }
 
 const person2: Person = {
-  name: 'Henrique',
+  name: 'Carlos',
   age: 43,
   isAlive: true
 }
